@@ -491,6 +491,6 @@ function PugnaBest.OnDraw()
 end
 
 
-Config.WriteInt("mini_games", "best_score", best_score)
+
 
 return PugnaBest
